@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hola soy un bonito pokemon
-=======
 hola soy un maldito pokemon amargado
->>>>>>> experimento
